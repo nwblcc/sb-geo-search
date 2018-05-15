@@ -103,8 +103,8 @@ class App extends Component {
               <br/>
               <br/>
               Contact{" "}
-              <a href="mailto:benjamin_matheson@fws.gov">
-                benjamin_matheson@fws.gov
+              <a href="mailto:rtoohey@usgs.gov">
+                rtoohey@usgs.gov
               </a>{" "}
               with any questions.
             </p>
